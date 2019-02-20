@@ -3,8 +3,9 @@ package javacipher;
 import java.util.Scanner;
 /**
  * @author Aaron Mullan
- * email: aaron.mullan213@gmail.com
- * github: github.com/aaronjmullan
+ * Email: aaron.mullan213@gmail.com
+ * GitHub: github.com/aaronjmullan
+ * LinkedIn: https://www.linkedin.com/in/aaron-mullan-b40310163/
  */
 public class JavaCipher {
     
